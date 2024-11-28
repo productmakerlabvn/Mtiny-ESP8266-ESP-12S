@@ -86,7 +86,7 @@ Mtiny là viết tắt của Maker Tiny là dự án tạo ra các mạch vi đi
 
 3) Bổ sung thêm các linh kiện giúp ổn định, chống nhiễu.
 
-4) Sau khi đã nạp chương trình, có thể cấp nguồn linh hoạt cho mạch bằng mạch Mtiny Power (6~24VDC) hoặc cấp nguồn trực tiếp qua chân 3V3 (3~3.3VDC).
+4) Sau khi đã nạp chương trình, có thể cấp nguồn linh hoạt cho mạch bằng mạch Mtiny Power (6 \~ 24VDC) hoặc cấp nguồn trực tiếp qua chân 3V3 (3 \~ 3.3VDC).
 
 ## Hình ảnh
 
@@ -191,6 +191,6 @@ Trong các trường hợp đã nạp chương trình (không cần sử dụng 
 
 ## Nhà phân phối
 
-Có thể mua Mạch Mtiny ESP8266 ESP-07S (Arduino Compatible) tại các nhà phân phối sau:
+Có thể mua Mạch Mtiny ESP8266 ESP-12S (Arduino Compatible) tại các nhà phân phối sau:
 
 - [Hshop.vn - Điện tử & Robot.](hshop.vn)
