@@ -66,7 +66,7 @@ Mtiny là viết tắt của Maker Tiny là dự án tạo ra các mạch vi đi
   </tr>
   <tr>
     <td>Programmer</td>
-    <td><a href="https://wiki.makerlab.vn/index.php/M%E1%BA%A1ch_Mtiny_Programmer_(Arduino_Compatible)">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
+    <td><a href="https://makerlab.vn/mtprogrammer">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
   </tr>
   <tr>
     <td>Programmer Connector</td>
@@ -193,4 +193,4 @@ Trong các trường hợp đã nạp chương trình (không cần sử dụng 
 
 Có thể mua Mạch Mtiny ESP8266 ESP-12S (Arduino Compatible) tại các nhà phân phối sau:
 
-- [Hshop.vn - Điện tử & Robot.](hshop.vn)
+- [Hshop.vn - Điện tử & Robot.](https://hshop.vn)
